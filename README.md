@@ -1,0 +1,1 @@
+# typescript-gof-design-patterns
